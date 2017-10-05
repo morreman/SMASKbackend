@@ -1,7 +1,7 @@
 # SMASKbackend
 ## The backend for a voting program.
 
-#ToDo
+# ToDo
 ### Solve cross origin.
 ### Design endpoints.
 #### POST, GET, PUT, DELETE

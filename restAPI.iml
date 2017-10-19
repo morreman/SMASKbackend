@@ -60,5 +60,12 @@
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.module:jackson-module-kotlin:2.8.6" level="project" />
     <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-reflect:1.0.5" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-simple:1.7.25" level="project" />
+    <orderEntry type="library" name="Maven: ninja.sakib:PultusORM:v1.6" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.7" level="project" />
+    <orderEntry type="library" name="Maven: com.eclipsesource.minimal-json:minimal-json:0.9.4" level="project" />
+    <orderEntry type="library" name="Maven: org.xerial:sqlite-jdbc:3.14.2.1" level="project" />
+    <orderEntry type="library" name="Maven: org.sqldroid:sqldroid:1.0.3" level="project" />
+    <orderEntry type="library" name="Maven: joda-time:joda-time:2.9.9" level="project" />
+    <orderEntry type="library" name="Maven: com.cedarsoftware:json-io:4.10.0" level="project" />
   </component>
 </module>
